@@ -28,8 +28,8 @@ nav{
 }
 
 nav img {
-    height: 80px;
-    width: 80px;
+    height: 100px;
+    width: 250px;
 }
 
 nav ul li {
@@ -114,7 +114,7 @@ span{
 .about{
     width: 100%;
     padding: 78px 0px;
-    background-color: #eff4fd;
+    background-color: #eeedff;
 }
 
 .about img{
